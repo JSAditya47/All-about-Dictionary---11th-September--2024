@@ -1,6 +1,6 @@
 
 test_dict = {
-    'Codingal': 2,
+    'Codingal': 3,
     'is': 2,
     'Best': 2,
     'for': 2,
